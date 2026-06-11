@@ -1,6 +1,6 @@
-const fs = require("fs");
-const path = require("path");
-const sharp = require("sharp");
+import fs from "fs";
+import path from "path";
+import sharp from "sharp";
 
 const inputDir = "./downloads";       //This is where the images being converted are stored
 const outputDir = "./webp";           //This is the folder where the converted images will be saved
