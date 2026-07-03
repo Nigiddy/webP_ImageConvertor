@@ -3,5 +3,5 @@ A node script to convert JPG and PNG images to webP with sharp library. This scr
 Usage: 
 ```
 npm install
-node /scripts/convert-to-webp.js
+node scripts/convert-to-webp.js
 ```
